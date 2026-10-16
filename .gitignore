@@ -1,0 +1,4 @@
+# Caltech-101 images are not stored in this repo (see README)
+data/
+*.asv
+__pycache__/
